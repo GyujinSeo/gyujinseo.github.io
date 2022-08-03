@@ -1,0 +1,20 @@
+
+---
+title: ""
+author: "Gyujin Seo"
+date: 
+output: html_document
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="site_libs/academicons-1.9.1/css/academicons.min.css"/>
+
+
+<br><br><br><br><br><br>
+
+#### **Gyujin Seo**
+##### B.S. Candidate in Statistics | UCLA <img src="images/college_logo.png" style="width:35%;" align="right">
+
+📍 Seoul <br>
+📱 (123) 456 - 7890 <br>
+✉️ [seokj98@g.ucla.edu](mailto:seokj98@g.ucla.edu) <br>
