@@ -341,7 +341,7 @@ div.tocify {
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
-      <a href="stat1.html">Predicting Churn Customer</a>
+      <a href="stat1.html">Predicting Customer Churn</a>
     </li>
   </ul>
 </li>
@@ -405,47 +405,36 @@ div.tocify {
 <p><link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="stylesheet" href="site_libs/academicons-1.9.1/css/academicons.min.css"/></p>
 <p><br><br><br></p>
-<div id="predicting-churn-customer" class="section level2">
-<h2><strong>Predicting Churn Customer</strong></h2>
-<p><img src="https://img.shields.io/badge/Using-Python-blue" /> <img
-src="https://img.shields.io/badge/-LASSO-red" /> <img
-src="https://img.shields.io/badge/-XGBoost-success" /></p>
+<div id="predicting-customer-churn" class="section level2">
+<h2><strong>Predicting Customer Churn</strong></h2>
+<p><img src="https://img.shields.io/badge/Using-R-blue" /></p>
 <p><br></p>
-<p>🚨<strong>THIS IS A FICTIONAL PROJECT MEANT AS AN EXAMPLE FOR THE
-STEPBYSTAT COMMUNITY.</strong></p>
-<p><br><br><br></p>
+<p><br></p>
 <div id="figure" class="section level3">
 <h3>1. Figure</h3>
 <p align="center">
-<img src="images/predict_houseprice.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+<img src="images/Randomforest_variable_important.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
 </p>
 <p align="center">
-[Fig. LASSO regression features by importance]
+[Fig. Random forest features by importance]
 </p>
 <p><br></p>
 <p><br><br></p>
 </div>
 <div id="goal" class="section level3">
 <h3>2. Goal</h3>
-<p>To predict the final price of each home using 79 explanatory
-variables describing (almost) every aspect of residential homes in Ames,
-Iowa.</p>
+<p>For the stability of the company’s financial problems, create a model
+to predict what customer has a high risk of leaving the bank’s credit
+card services.</p>
 <p><br></p>
 </div>
 <div id="methodology-summary" class="section level3">
 <h3>3. Methodology &amp; Summary</h3>
 <ul>
-<li>LASSO regressions showed the best performance with a cross
-validation RMSE-score of 0.1121. Although there is a lot of
-multicollinearity among the variables, LASSO regression include feature
-selection; it does not select a substantial number of the available
-variables in its model, as it is supposed to do.</li>
-<li>The XGBoost model also performs very well with a cross validation
-RMSE of 0.1162.</li>
-<li>As those two algorithms are very different, averaging predictions is
-likely to improve the predictions. As the Lasso cross validated RMSE is
-better than XGBoost’s CV score, I decided to weight the Lasso results
-double.</li>
+<li>Random Forest has best model compared to other with Kappa,
+Sensitivity, Specificity and F1 score has shown at least 96% accuracy.
+Random Forest have AUC score of 98% that shows the model is learning the
+data well enough.</li>
 </ul>
 <p><br></p>
 </div>
