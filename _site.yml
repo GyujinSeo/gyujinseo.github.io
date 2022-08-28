@@ -19,7 +19,7 @@ navbar:
         href: dbsql1.html
     - text: "Visualization"
       menu: 
-      - text: "Squid Game Elimination Analysis"
+      - text: "Covid-19 Lockdown Analysis"
         href: visualization1.html
   right:
     - icon: fas fa-envelope
