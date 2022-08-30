@@ -41,7 +41,7 @@ output:
 
 ### 2. Website
 
-For more insights, please check my website by clicking [HERE](https://covid-19.humspace.ucla.edu/).
+For more insights, please check my website by clicking [[HERE](https://covid-19.humspace.ucla.edu/)].
 
 
 
