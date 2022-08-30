@@ -11,9 +11,9 @@ navbar:
       href: tutorials.html
     - text: "Stat/ML"
       menu: 
-    - text: "Predicting Customer Churn"
+      - text: "Predicting Customer Churn"
         href: stat1.html
-    - text: "Predicting Customer Churn"
+      - text: "Predicting Customer Churn1"
         href: stat2.html
     - text: "DB/SQL"
       menu: 
