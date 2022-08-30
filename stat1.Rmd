@@ -57,7 +57,7 @@ For the stability of the company's financial problems, create a model to predict
 
 ### 4. Code
 
-Please click [HERE](files/Predict_Chrun_Customer.html) for the analysis report and code.
+Please click [[HERE](files/Predict_Chrun_Customer.html)] for the analysis report and code.
 
 <br>
 
