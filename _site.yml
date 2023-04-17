@@ -13,7 +13,7 @@ navbar:
       menu: 
       - text: "Predicting Customer Churn"
         href: stat1.html
-      - text: "Predicting Customer Churn1"
+      - text: "Predicting Riview data"
         href: stat2.html
     - text: "DB/SQL"
       menu: 
