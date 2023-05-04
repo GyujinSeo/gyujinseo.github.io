@@ -32,4 +32,4 @@ output: html_document
 
 
 
-My resume is available [HERE](files/Resume.pdf)
+My resume is available [[HERE](files/Resume.pdf)].
