@@ -409,47 +409,48 @@ div.tocify {
 <p><link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="stylesheet" href="site_libs/academicons-1.9.1/css/academicons.min.css"/></p>
 <p><br><br><br></p>
-<div id="predicting-house-prices-in-iowa" class="section level2">
-<h2><strong>Predicting House Prices in Iowa</strong></h2>
-<p><img src="https://img.shields.io/badge/Using-Python-blue" /> <img
-src="https://img.shields.io/badge/-LASSO-red" /> <img
-src="https://img.shields.io/badge/-XGBoost-success" /></p>
+<div id="predicting-the-useful-values-with-machine-learning-models"
+class="section level2">
+<h2><strong>Predicting the Useful Values with Machine Learning
+Models</strong></h2>
+<p><img src="https://img.shields.io/badge/Using-R-blue" /></p>
 <p><br></p>
-<p>🚨<strong>THIS IS A FICTIONAL PROJECT MEANT AS AN EXAMPLE FOR THE
-STEPBYSTAT COMMUNITY.</strong></p>
 <p><br><br><br></p>
 <div id="figure" class="section level3">
 <h3>1. Figure</h3>
 <p align="center">
-<img src="images/predict_houseprice.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+<img src="images/RF_variable.PNG" style="width:80%; border:0px solid; margin-right: 20px" align="center">
 </p>
 <p align="center">
-[Fig. LASSO regression features by importance]
+[Fig. Random forest features by importance]
 </p>
 <p><br></p>
+<p align="center">
+<img src="images/Result_review.PNG" style="width:70%; border:0px solid; margin-right: 20px" align="center">
+</p>
+<p align="center">
+[Fig. Result of models]
+</p>
 <p><br><br></p>
 </div>
 <div id="goal" class="section level3">
 <h3>2. Goal</h3>
-<p>To predict the final price of each home using 79 explanatory
-variables describing (almost) every aspect of residential homes in Ames,
-Iowa.</p>
+<p>To determine which machine learning model provides the best
+prediction of whether a review on California restaurants on Yelp will be
+voted as “useful” by users.</p>
 <p><br></p>
 </div>
 <div id="methodology-summary" class="section level3">
 <h3>3. Methodology &amp; Summary</h3>
 <ul>
-<li>LASSO regressions showed the best performance with a cross
-validation RMSE-score of 0.1121. Although there is a lot of
-multicollinearity among the variables, LASSO regression include feature
-selection; it does not select a substantial number of the available
-variables in its model, as it is supposed to do.</li>
-<li>The XGBoost model also performs very well with a cross validation
-RMSE of 0.1162.</li>
-<li>As those two algorithms are very different, averaging predictions is
-likely to improve the predictions. As the Lasso cross validated RMSE is
-better than XGBoost’s CV score, I decided to weight the Lasso results
-double.</li>
+<li>Random Forest has an AUC score of 91.58% that shows the model is
+learning the data well enough.</li>
+<li>By using the Random Forest model that we made, the restaurants can
+predict whether a review is useful or not even before people start
+pressing a useful button on Yelp. If a review is useful, which is
+written as a reasonable good, bad or both things, the restaurants need
+to change the customers’ complaints or maintain the good contents the
+reviewers have told for their restaurants’ development.</li>
 </ul>
 <p><br></p>
 </div>
