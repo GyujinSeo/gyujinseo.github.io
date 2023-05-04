@@ -55,9 +55,9 @@ To determine which machine learning model provides the best prediction of whethe
 
 <br>
 
-### 4. Code
+### 4. Report
 
-Please click [HERE](files/PredictingUsefulRiview.pdf) for the analysis report and code.
+Please click [HERE](files/Useful_Review_Prediction.pdf) for the analysis report.
 
 <br>
 
