@@ -14,22 +14,21 @@ output:
 
 <br><br><br>
 
-## **Movie Explorer**
+## **U.S. News College Rankings 2023**
 
 ![](https://img.shields.io/badge/Using-R-blue)
-![](https://img.shields.io/badge/-SQL-red)
 ![](https://img.shields.io/badge/-Shiny%20App-success)
 
 <br>
 
-🚨**THIS IS A FICTIONAL PROJECT MEANT AS AN EXAMPLE FOR THE STEPBYSTAT COMMUNITY.**
+🚨**Project**
 
 <br><br><br>
 
 ### 1. Screenshot of Dashboard
 
 <p align="center">
-<img src="images/movie_explorer.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+<img src="images/" style="width:80%; border:0px solid; margin-right: 20px" align="center">
 </p>
 <p align="center">
 </p>
@@ -38,7 +37,7 @@ output:
 
 ### 2. Summary
 
-+ blah blah blah
++ 
 
 <br><br><br>
 
