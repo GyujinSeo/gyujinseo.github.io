@@ -11,7 +11,7 @@ navbar:
       menu: 
       - text: "Predicting Customer Churn"
         href: stat1.html
-      - text: "Predicting Riview data"
+      - text: "Useful Review Prediction with ML Models"
         href: stat2.html
     - text: "DB/SQL"
       menu: 
