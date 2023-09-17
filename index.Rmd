@@ -17,9 +17,9 @@ output: html_document
 
 👋🏽 Hello, my name is Gyujin Seo.
 
-🎓 Soon to be grad with a B.S. in Statistics and Data Science at University of California, Los Angeles. (June 2023)
+🎓 Graduated with a B.S. in Statistics and Data Science from the University of California, Los Angeles in June 2023.
 
-🌇 Currently student at UCLA, with a passion for developing and applying mathematical and statistical models to hands-on strategies that will grow business.
+🌇 Passionate about developing and applying mathematical and statistical models, with a keen interest in translating them into actionable business strategies to drive growth.
 
 💻 I have plans to become a data scientist in various industries that require insights through data analysis and utilization. My goal is to solve complex problems using data science and make a positive impact on society.
 
@@ -29,7 +29,7 @@ output: html_document
 
 + Programming: Python, R
 + Data visualization: Tableau Software
-
++ Database: MySQL
 
 
 My resume is available [[HERE](files/Resume.pdf)].
