@@ -13,8 +13,8 @@ output: html_document
 <br><br><br><br><br><br>
 
 #### **Gyujin Seo**
-##### B.S. Candidate in Statistics | University of California, Los Angeles <img src="images/college_logo.png" style="width:35%;" align="right">
+##### B.S. Candidate in Statistics and Data Science | University of California, Los Angeles <img src="images/college_logo.png" style="width:35%;" align="right">
 
 📍 Seoul <br>
-📱 (123) 456 - 7890 <br>
+📱  <br>
 ✉️ [seokj98@g.ucla.edu](mailto:seokj98@g.ucla.edu) <br>
