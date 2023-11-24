@@ -25,11 +25,11 @@ output: html_document
 
 🏔 In my free time, I enjoy watching sport games such as soccer, baseball and UFC.   
 
-💪 Specializing in analyzing customer data from the industry to generate meaningful predictions and apply insights for actionable strategies.
+💪 Focused on transforming diverse industry data into predictive analytics, providing actionable insights that drive strategic decisions and operational efficiencies.
 
 + Programming: Python, R
 + Data visualization: Tableau Software
 + Database: MySQL
 
 
-My resume is available [[HERE](files/Resume.pdf)].
+```My resume is available [[HERE](files/Resume.pdf)].```
