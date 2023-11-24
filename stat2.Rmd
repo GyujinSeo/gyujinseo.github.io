@@ -26,7 +26,7 @@ output:
 ### 1. Figure
 
 <p align="center">
-<img src="images/RF_variable.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+<img src="images/RF_variable1.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
 </p>
 <p align="center">
 [Fig. Random forest features by importance]
@@ -35,7 +35,7 @@ output:
 <br>
 
 <p align="center">
-<img src="images/Result_review.png" style="width:70%; border:0px solid; margin-right: 20px" align="center">
+<img src="images/Result_review1.png" style="width:70%; border:0px solid; margin-right: 20px" align="center">
 </p>
 <p align="center">
 [Fig. Result of models]
