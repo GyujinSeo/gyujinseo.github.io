@@ -13,10 +13,6 @@ navbar:
         href: stat1.html
       - text: "Useful Review Prediction with ML Models"
         href: stat2.html
-    - text: "DB/SQL"
-      menu: 
-      - text: "College Rankings"
-        href: dbsql1.html
     - text: "Visualization"
       menu: 
       - text: "Covid-19 Lockdown Analysis"
