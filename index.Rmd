@@ -28,5 +28,5 @@ output: html_document
 💪 Focused on transforming diverse industry data into predictive analytics, providing actionable insights that drive strategic decisions and operational efficiencies.
 
 + Programming: Python, R
-+ Data visualization: Tableau Software
++ Data visualization: Tableau
 + Database: MySQL
